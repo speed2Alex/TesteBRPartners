@@ -184,7 +184,7 @@ namespace StreamingApp
             this.layoutControlItem3.Location = new System.Drawing.Point(0, 0);
             this.layoutControlItem3.Name = "layoutControlItem3";
             this.layoutControlItem3.Size = new System.Drawing.Size(455, 30);
-            this.layoutControlItem3.Text = "Alt";
+            this.layoutControlItem3.Text = "Login";
             this.layoutControlItem3.TextSize = new System.Drawing.Size(30, 13);
             // 
             // layoutControlItem4

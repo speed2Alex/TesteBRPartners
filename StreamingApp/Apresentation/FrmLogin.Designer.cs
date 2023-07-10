@@ -97,23 +97,23 @@ namespace StreamingApp
             // 
             // txtSenha
             // 
-            this.txtSenha.Location = new System.Drawing.Point(66, 246);
+            this.txtSenha.Location = new System.Drawing.Point(67, 246);
             this.txtSenha.Name = "txtSenha";
             this.txtSenha.Properties.Appearance.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSenha.Properties.Appearance.Options.UseFont = true;
             this.txtSenha.Properties.EditFormat.FormatString = "*";
             this.txtSenha.Properties.PasswordChar = '*';
-            this.txtSenha.Size = new System.Drawing.Size(409, 26);
+            this.txtSenha.Size = new System.Drawing.Size(408, 26);
             this.txtSenha.StyleController = this.layoutControl1;
             this.txtSenha.TabIndex = 6;
             // 
             // txtEmail
             // 
-            this.txtEmail.Location = new System.Drawing.Point(66, 216);
+            this.txtEmail.Location = new System.Drawing.Point(67, 216);
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Properties.Appearance.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtEmail.Properties.Appearance.Options.UseFont = true;
-            this.txtEmail.Size = new System.Drawing.Size(409, 26);
+            this.txtEmail.Size = new System.Drawing.Size(408, 26);
             this.txtEmail.StyleController = this.layoutControl1;
             this.txtEmail.TabIndex = 5;
             // 
@@ -176,7 +176,7 @@ namespace StreamingApp
             this.layoutControlItem2.Name = "layoutControlItem2";
             this.layoutControlItem2.Size = new System.Drawing.Size(455, 30);
             this.layoutControlItem2.Text = "Senha";
-            this.layoutControlItem2.TextSize = new System.Drawing.Size(30, 13);
+            this.layoutControlItem2.TextSize = new System.Drawing.Size(31, 13);
             // 
             // layoutControlItem3
             // 
@@ -184,8 +184,8 @@ namespace StreamingApp
             this.layoutControlItem3.Location = new System.Drawing.Point(0, 0);
             this.layoutControlItem3.Name = "layoutControlItem3";
             this.layoutControlItem3.Size = new System.Drawing.Size(455, 30);
-            this.layoutControlItem3.Text = "Login";
-            this.layoutControlItem3.TextSize = new System.Drawing.Size(30, 13);
+            this.layoutControlItem3.Text = "Login2";
+            this.layoutControlItem3.TextSize = new System.Drawing.Size(31, 13);
             // 
             // layoutControlItem4
             // 
